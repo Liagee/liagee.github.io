@@ -1,45 +1,114 @@
-# DevOps-Portfolio 
+# Lachin Humbatova - Personal Portfolio Website
 
-| **Licence**  | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  |
-|---|---|
-| **Deploy status**  |  [![Netlify Status](https://api.netlify.com/api/v1/badges/d0268492-3c13-4c56-aa3d-6c40adadfd0f/deploy-status)](https://app.netlify.com/sites/adityagundecha/deploys) |
+Welcome to the repository for the personal portfolio website of **Lachin Humbatova**—a developer turned Web with a passion for automating processes.
 
+## Table of Contents
 
-A website to showcase DevOps professional portfolio
-# Project Title
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Sections Overview](#sections-overview)
+- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
-A personal project to create a portfolio website for a DevOps Engineer
+## About the Project
+
+This project is a personal portfolio website that showcases my skills, experience, and the tools I'm proficient with. It serves as an online resume and a platform for potential clients or employers to get in touch.
+
+## Features
+
+- **Responsive Design**: Compatible with various devices and screen sizes.
+- **Interactive Animations**: Engaging user experience with animations and transitions.
+- **Detailed Sections**: Includes sections like About Me, Experience, Tools, and Contact.
+- **Social Media Links**: Quick access to LinkedIn, Instagram, and GitHub profiles.
+
+## Built With
+
+- **HTML5 & CSS3**
+- **JavaScript & jQuery**
+- **Bootstrap**
+- **Owl Carousel**
+- **Revolution Slider**
+- **Cube Portfolio**
+- **Font Awesome & Simple Line Icons**
+- **Google Fonts**
+- **Lottie Animations**
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-See deployment for notes on how to deploy the project on a live system.
-To get started clone the repository and start coding. Continuous Delivery is implemented using __Github Actions__ and __Netlify__ Wbhook
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- VS Code or any other editor. (Few that I recommend are Vim, Sublime Text, Notepad++ )
-- Live Server extension for VS Code
-- Git lens for VS Code
+- Web browser (Chrome, Firefox, Safari, etc.)
+- Text editor (VSCode, Sublime Text, etc.) for code modifications (optional)
+- Internet connection for loading external resources (or download them locally)
 
+### Installation
 
-End with an example of getting some data out of the system or using it for a little demo
+1. **Clone the repository**
 
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+   ```
 
-## Deployment
+2. **Navigate to the project directory**
 
-Deployment is done via [Netlify](https://www.netlify.com/).
+   ```bash
+   cd portfolio
+   ```
 
-## Authors
+3. **Open `index.html` in your web browser**
 
-* **Aditya Gundecha** - *Initial work* 
+   You can double-click the `index.html` file or open it within your browser.
 
-## License
+## Usage
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+- **Explore**: Navigate through different sections to learn more about my professional journey.
+- **Contact**: Use the contact form to get in touch.
+- **Social Links**: Visit my social media profiles via the provided links.
+
+## Sections Overview
+
+### Home
+
+An engaging slider with key highlights about my professional expertise, such as being an Expert DevOps Engineer and an Efficient Team Leader.
+
+### About Me
+
+Provides a brief history and background, including my transition from web development to DevOps engineering.
+
+### Experience
+
+Details my professional experience, roles held, and contributions at various companies like Amazon Web Services, Accenture, and ASOS.
+
+### Tools
+
+Showcases the tools and technologies I'm proficient with, categorized and displayed using an interactive portfolio grid.
+
+### Contact
+
+A section for visitors to get in touch, featuring a Google Forms integration for easy message submission.
+
+## Contact
+
+Feel free to reach out for collaboration or inquiries.
+
+- **Email**: [gumbatovalachin@gmail.com](mailto:gumbatovalachin@gmail.com)
+- **LinkedIn**: [Lachin Humbatova](https://www.linkedin.com/in/lachin-humbatova-9355a5228/)
+- **GitHub**: [Liagee](https://github.com/Liagee)
+- **Instagram**: [@blonde_lia_](https://www.instagram.com/blonde_lia_/)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- **Images and Icons**: Sourced from [Font Awesome](https://fontawesome.com/) and [Simple Line Icons](https://simplelineicons.com/).
+- **Animations**: Powered by [LottieFiles](https://lottiefiles.com/).
+- **Libraries and Frameworks**: Thanks to the developers of Bootstrap, jQuery, Owl Carousel, Revolution Slider, and Cube Portfolio for their amazing tools.
+
+---
+
+**Note**: This project is intended for personal use. If you wish to use or modify it, please ensure proper attribution.
